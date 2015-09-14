@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BoldlyGoes</title>
+    <description>Travel and adventure</description>
+    <link>http://boldlygoes.com</link>
+    <atom:link href="http://boldlygoes.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Test Blog Post</title>
+        
+        
+          <description>&lt;p&gt;Lorem Ipsum!&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 14 Sep 2015 20:11:00 +0100</pubDate>
+        <link>http://boldlygoes.com/2015/test-blog-post/</link>
+        <guid isPermaLink="true">http://boldlygoes.com/2015/test-blog-post/</guid>
+      </item>
+    
+  </channel>
+</rss>

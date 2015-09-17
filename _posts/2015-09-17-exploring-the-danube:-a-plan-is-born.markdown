@@ -46,7 +46,7 @@ pictured myself paddling down it on some future adventure and
 casually suggested the idea to Raj and Harvey to which they casually concurred. 
 
 
-<a href="/assets/images/chain-bridge-lion.jpg" data-lightbox="lion-large" data-title="Check out the Falcon 9 from SpaceX">
+<a href="/assets/images/chain-bridge-lion.jpg" data-lightbox="lion-large" data-title="One of four imposing Limestone Lions.">
   <img src="/assets/images/chain-bridge-lion.jpg" title="One of four imposing limestone lions guarding the bridge.">
 </a>
 

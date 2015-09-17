@@ -1,33 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BoldlyGoes</title>
-    <description>Travel and adventure</description>
-    <link>http://boldlygoes.co.uk</link>
-    <atom:link href="http://boldlygoes.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <link>http://boldlygoes.com//</link>
+    <atom:link href="http://boldlygoes.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 Sep 2015 16:06:10 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2015 16:06:10 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Kayaking in Great Barford</title>
-        
-        
-          <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae dapibus ex. Quisque vel dictum enim, sed imperdiet odio. Mauris ac sem maximus, imperdiet felis commodo, ullamcorper mi. Aenean quis sem eget leo elementum rutrum nec imperdiet odio. In ut neque faucibus, porttitor neque a, eleifend metus. Aliquam tempor est ut mi dignissim pellentesque. Duis ac tempor ex. Phasellus hendrerit mi mi, nec fringilla neque aliquet condimentum. Maecenas dignissim varius turpis ut ultrices.&lt;/p&gt;
+        <title>Exploring The Danube: A Plan Is Born</title>
+        <description>&lt;p&gt;Pest and Buda, once two separate cities, were connected permanently for the first time in 1849 by
+the Chain Bridge, an impressive suspension
+bridge spanning the 400 metre-wide River
+Danube. Before its construction, crossing
+between the two cities was a much more
+arduous task, calling for the use of ferries
+and improvised wooden bridges, and was
+at all times entirely under the will of the
+weather. In fact, the harsh Hungarian
+winters could leave hopeful river-crossers
+stranded for days or even weeks at a time.
+That was until the river left Count István
+Széchenyi, an ample-eyebrowed Hungarian
+statesman, stuck and unable to cross the
+river in order to attend his father’s funeral.
+The unfortunate event inspired him to take action and commission the building of bridge large
+enough to withstand anything the weather and the river’s power could throw at it. An English
+engineer by the name of William Tierney Clark was handed the job of realising the Count’s vision.
+He based the Chain Bridge on a small bridge he had built in Buckinghamshire crossing the
+Thames in the village of Marlow. It was this bridge that first connected the two cities and served as
+a catalyst in establishing the metropolis of Budapest.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg&quot; data-lightbox=&quot;chainbridge-large&quot; data-title=&quot;The Chain Bridge spanning the Danube.&quot;&gt;
+  &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg&quot; title=&quot;Check out the Falcon 9 from SpaceX&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As we stood upon the Bridge under the beating sun and the
+watchful eyes of two large limestone lions reminiscent of those in
+Trafalgar square, we listened to our tour guide recite this story of
+how the bridge had come to be. Around stood many like us, a
+haggard group of Englishmen wearied by the previous night’s
+consumption of alcohol and loud Euro-House. We were in beautiful
+Budapest, nine-strong, celebrating the marriage of our friend
+Alasdair. Whilst listening to our guide I couldn’t help but notice the
+Danube beneath us. Wide and shimmering blue. All too inviting. I
+pictured myself paddling down it on some future adventure and
+casually suggested the idea to Raj and Harvey to which they casually concurred.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/chain-bridge-lion.jpg&quot; data-lightbox=&quot;lion-large&quot; data-title=&quot;Check out the Falcon 9 from SpaceX&quot;&gt;
+  &lt;img src=&quot;/assets/images/chain-bridge-lion.jpg&quot; title=&quot;One of four imposing limestone lions guarding the bridge.&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fast forward three weeks and the same group of Englishmen are well-oiled once again but this
+time in an ornately decorated Hertfordshire village hall for Alasdair and Gabrielle’s wedding. The
+passing thought of taking a trip down Europe’s second longest river had by now been stewing in 
+my mind for some time. I had been secretly poring over maps of Europe, measuring the distances
+between the River’s most notable sights and cities, reading up on canoes and packrafts. Silently
+scheming. I had by this point already planned in my mind a journey between the once sprawling
+Austro-Hungarian empire’s two capital cities: Vienna and Budapest. A journey of 250km passing
+through Bratislava and Esztergom situated on the shoreline of the river’s main channel as well as a
+maze of slowly shifting tributaries and offshoots in the vast floodplains of Dunajské luhy. I broached
+the subject once more, this time a little less casually: “We should canoe down the Danube next
+year, it’d be fun!”. Admittedly a little drunk we had perhaps unwisely begun our journey. Oh boy, we
+have a lot to do!&lt;/p&gt;
 </description>
+        <pubDate>Thu, 17 Sep 2015 16:19:22 +0100</pubDate>
+        <link>http://boldlygoes.com//planning/2015/09/17/exploring-the-danube:-a-plan-is-born.html</link>
+        <guid isPermaLink="true">http://boldlygoes.com//planning/2015/09/17/exploring-the-danube:-a-plan-is-born.html</guid>
         
-        <pubDate>Mon, 14 Sep 2015 20:30:00 +0100</pubDate>
-        <link>http://boldlygoes.co.uk/2015/kayaking-great-barford/</link>
-        <guid isPermaLink="true">http://boldlygoes.co.uk/2015/kayaking-great-barford/</guid>
-      </item>
-    
-      <item>
-        <title>Test Blog Post</title>
+        <category>budapest</category>
+        
+        <category>planning</category>
+        
+        <category>danube</category>
+        
+        <category>well-oiled</category>
         
         
-          <description>&lt;p&gt;Lorem Ipsum!&lt;/p&gt;
-</description>
+        <category>planning</category>
         
-        <pubDate>Mon, 14 Sep 2015 20:11:00 +0100</pubDate>
-        <link>http://boldlygoes.co.uk/2015/test-blog-post/</link>
-        <guid isPermaLink="true">http://boldlygoes.co.uk/2015/test-blog-post/</guid>
       </item>
     
   </channel>

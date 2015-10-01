@@ -13,16 +13,16 @@ Whilst BoldlyGoes has big ambitions (Danube ahoy), the team is learning as we go
 
 James, current BoldyGoes leader and wacky kayak modification engineer, scoped out a lovely spot for our first group excursion onto the water. Great Barford is a splendid little village located in Bedfordshire. Through it, runs the River Ouse which was James’ chosen location for our first day out on the water. The calm water surrounding a lovely arched road bridge, which spans the river Ouse coming into Great Barford, was the perfect location for our first splash and paddle. The river is navigable by barge – there is a lock and weir located 200m north of the bridge – so there was the occasional locked-eye stare with any passing river travellers, but for the most part, this length of water served our needs perfectly. 
 
-<a href="//localhost:4000/assets/images/barford_bridge_water.jpg" data-lightbox="barford-bridge" data-title="Idyllic and in Bedfordshire - diamond in the rough">
-  <img src="//localhost:4000/assets/images/barford_bridge_water.jpg" title="Idyllic and in Bedfordshire - diamond in the rough">
+<a href="//boldlygoes.co.uk/assets/images/barford_bridge_water.jpg" data-lightbox="barford-bridge" data-title="Idyllic and in Bedfordshire - diamond in the rough">
+  <img src="//boldlygoes.co.uk/assets/images/barford_bridge_water.jpg" title="Idyllic and in Bedfordshire - diamond in the rough">
 </a>
 
 If you were rating this waterway like a colour coded ski slope, where green is a nursery slope aimed towards beginners and black is an extremely challenging slope which should only be attempted by experts, then the part of the Ouse which runs through Barford Village would definitely be a sickly lime colour, which was fine by us.
 
 James brought with him his inflatable kayak, a cheap and cheerful Sevylor Riviera 2 Person, which served as our mode of transport for the day. The kayak pack is built with backpack straps for easy transportation and is relatively easy to blow up and assemble, taking between 5-10 minutes in total. James was first out, going knee deep into the sloped entrance to the water before leaping into the kayak, paddle in hand. After showing us how it was done, Sam and myself both took the mighty Sevylor out for a spin. While it was fun out on the water and great to practise with (or learn how to use), we quickly identified the limitations of this inflatable vessel and why it is not best suited for a long expedition. 
 
-<a href="//localhost:4000/assets/images/sevylor_top.jpg" data-lightbox="sevylor-top" data-title="Drone strike in-bound">
-  <img src="//localhost:4000/assets/images/sevylor_top.jpg" title="Drone strike in-bound">
+<a href="//boldlygoes.co.uk/assets/images/sevylor_top.jpg" data-lightbox="sevylor-top" data-title="Drone strike in-bound">
+  <img src="//boldlygoes.co.uk/assets/images/sevylor_top.jpg" title="Drone strike in-bound">
 </a>
 
 

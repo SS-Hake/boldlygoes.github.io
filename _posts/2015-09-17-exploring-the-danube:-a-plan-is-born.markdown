@@ -30,7 +30,7 @@ Thames in the village of Marlow. It was this bridge that first connected the two
 a catalyst in establishing the metropolis of Budapest.
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg" data-lightbox="chainbridge-large" data-title="The Chain Bridge spanning the Danube.">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg" title="Check out the Falcon 9 from SpaceX">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg" title="The Chain Bridge in Budapest.">
 </a>
 
 As we stood upon the Bridge under the beating sun and the

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+---
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,72 +14,23 @@
 </head>
 <body>
 
-<header>
-	
-<div class="logo"></div>
-
-<nav>
-	<a href="">Articles</a>
-	<a href="">Trips</a>
-	<a href="">About</a>
-	<a href="">Contact</a>
-</nav>
-
-<h1>
-	<span>
-		Boldly Goes
-		<div class="tag">Outdoor Articles and Reviews</div>
-	</span>
-</h1>
-
-</header>
-
+{% include header.html %}
 
 <span class="divider"></span>
 
-
-<div class="container">
-	<h3>Welcome to Boldly Goes</h3>
-
-	<p>Intro text here</p>
-	<!-- <p>Welcome to BoldlyGoes, This is the record of the outdoor adventures of James Harvey and Sam, Hertfordshire lads with a hunger for outdoor adventure and camping in cosy spots around England.</p>
-	<p>Within this blog you will find a mixture of reviews of our gear, tales from camping overnighters around the UK, and logs of larger expenditions to other countries.</p>
-	 -->	
-
-	<div class="faces-lockup"> 
-	<div class="face">Face1</div>
-	<div class="face">Face2</div>
-	<div class="face">Face3</div>
-	</div>
-</div>
-
+{% include introduction.html %}
 
 <span class="divider"></span>
 
-Articles
-
-
-<span class="divider"></span>
-
-Contact
+{% include articles.html %}
 
 <span class="divider"></span>
 
-<footer>
+{% include contact.html %}
 
-	<div class="footer-contents">
-		<div class="logo"></div>
-		<div class="wrap">
-			<nav>
-				<a href="">Articles</a>
-				<a href="">Trips</a>
-				<a href="">About</a>
-				<a href="">Contact</a>
-			</nav>
-			<p class="copyright">Content copyright 2016</p>
-		</div>
-	</div>
-</footer>
+<span class="divider"></span>
+
+{% include footer.html %}
 
 <p></p>
 <script src="/assets/js/jquery-2.1.1.min.js"></script>
@@ -82,3 +38,20 @@ Contact
 </body>
 </html>
 
+=======
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>BoldlyGoes.com</title>
+  <!-- Add some style to your site, see http://getbootstrap.com for details -->
+  <link rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+</head>
+<body>
+  <h1>Boldly Goes</h1>
+  <p>The Boldly Goes site and Blog.</p>
+  <p>More text and things. Text.</p>
+</body>
+</html>
+>>>>>>> 938ea4cc2b9618ac5235b898f44ca34eaf8a58e4

@@ -256,7 +256,7 @@ header {
     color: #E2E2E2;
     text-transform: uppercase;
     letter-spacing: 0.03em;
-    padding-top: 80px;
+    padding-top: 50px;
     clear: both; }
     header h1 span {
       display: inline-block;
@@ -301,21 +301,24 @@ header {
   text-align: center;
   font-size: 20px;
   font-weight: 700; }
-.articles-container .article-lockup .item {
-  display: inline-block;
-  height: 80px;
-  width: 250px; }
-  .articles-container .article-lockup .item h4 {
-    font-size: 14px;
-    font-weight: 700; }
-  .articles-container .article-lockup .item .image {
-    height: 50px;
-    width: 50px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background: url(../img/articles/article1.png); }
+.articles-container .article-lockup {
+  text-align: center; }
+  .articles-container .article-lockup .item {
+    display: inline-block;
+    height: 80px;
+    width: 250px; }
+    .articles-container .article-lockup .item h4 {
+      font-size: 14px;
+      font-weight: 700; }
+    .articles-container .article-lockup .item .image {
+      height: 50px;
+      width: 50px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background: url(../img/articles/article1.png); }
 
 footer {
+  margin-top: 50px;
   height: 150px;
   background: url(../img/main_bg_lakes.jpg);
   background-size: cover;

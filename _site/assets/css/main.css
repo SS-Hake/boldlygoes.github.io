@@ -149,7 +149,7 @@ td, th {
   src: local("Open Sans"), local("OpenSans"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format("woff"); }
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #bd5248;
+  color: #BD5248;
   font-weight: bold; }
 
 .gigantic {
@@ -188,14 +188,14 @@ strong {
   font-weight: bold; }
 
 hr {
-  border: solid #dddddd;
+  border: solid #ddd;
   border-width: 1px 0 0;
   clear: both;
   margin: 10px 0 30px;
   height: 0; }
 
 a {
-  color: #bd5248;
+  color: #BD5248;
   text-decoration: none;
   outline: 0; }
 
@@ -203,10 +203,10 @@ a:hover, a:focus {
   color: #d89993; }
 
 ::selection {
-  background: #fff498; }
+  background: #FFF498; }
 
 ::-moz-selection {
-  background: #fff498; }
+  background: #FFF498; }
 
 img::selection {
   background: transparent; }
@@ -215,17 +215,16 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fff498; }
+  -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background: #f6f6f8;
+  background: #F6F6F8;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Open Sans" sans-serif;
-  color: #2e2d33;
+  color: #2E2D33;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
-
 
 header {
   height: 450px;
@@ -271,10 +270,56 @@ header {
     font-weight: 700;
     color: white; }
 
+.introduction-container {
+  max-width: 780px;
+  margin: auto; }
+  .introduction-container h3 {
+    text-align: center; }
+  .introduction-container .faces-lockup {
+    margin: 20px auto 30px auto;
+    height: 200px;
+    width: 780px;
+    text-align: center; }
+    .introduction-container .faces-lockup .faces {
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      background-size: cover;
+      background-position: center;
+      margin-right: 20px; }
+    .introduction-container .faces-lockup .sam {
+      background-image: url(../img/about/sam-small.png);
+      display: inline-block; }
+    .introduction-container .faces-lockup .james {
+      background-image: url(../img/about/james-small.png);
+      display: inline-block; }
+    .introduction-container .faces-lockup .harvey {
+      background-image: url(../img/about/harvey-small.png);
+      display: inline-block; }
+
+.articles-container .title {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700; }
+.articles-container .article-lockup .item {
+  display: inline-block;
+  height: 80px;
+  width: 250px; }
+  .articles-container .article-lockup .item h4 {
+    font-size: 14px;
+    font-weight: 700; }
+  .articles-container .article-lockup .item .image {
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: url(../img/articles/article1.png); }
+
 footer {
   height: 150px;
   background: url(../img/main_bg_lakes.jpg);
-  background-size: cover; }
+  background-size: cover;
+  width: 100%; }
   footer .footer-contents {
     padding: 50px 30px; }
     footer .footer-contents:after {

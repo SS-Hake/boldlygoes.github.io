@@ -226,17 +226,21 @@ body {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
 
+
 header {
   height: 450px;
   background: url(../img/main_bg_lakes.jpg);
   background-size: cover;
   /* -webkit-text-stroke: 1px black */ }
   header .logo {
+    height: 80px;
+    width: 80px;
     float: left;
-    margin: 10px 0 0 30px;
-    height: 50px;
-    width: 50px;
-    background: #999; }
+    margin: 10px 0 0 30px; }
+    header .logo #bglogo {
+      height: 80px;
+      width: 80px;
+      fill: rgba(255, 255, 255, 0.4); }
   header nav {
     float: right;
     margin: 30px 30px 20px 0; }
@@ -280,9 +284,12 @@ footer {
     footer .footer-contents .logo {
       height: 50px;
       width: 50px;
-      margin-right: 30px;
-      background: rgba(1, 0, 0, 0.4);
-      float: left; }
+      float: left;
+      margin-right: 30px; }
+    footer .footer-contents #bglogo {
+      height: 50px;
+      width: 50px;
+      fill: rgba(255, 255, 255, 0.4); }
     footer .footer-contents .copyright {
       margin: 0;
       text-transform: uppercase;

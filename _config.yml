@@ -1,7 +1,13 @@
-# Build settings
+#Welcome to BodlyGoes v2.0.
+#This config file holds all settings which affect the entire blog,
+#it is read once when the server starts, if you make changes here,
+#restart the server.
 
+# Build settings
 markdown: kramdown
 permalink: pretty
+gems:
+  - jekyll-sitemap
 
 port: 3000
 
@@ -12,3 +18,13 @@ sass:
 # Site settings
 title: BoldlyGoes
 email: 
+subtitle: outdoor articles and gear reviews.
+description: Three lads from Hertfordshire entertain you with musings on outdoor topics.
+keywords: outdoor camping travel bushcraft gear reviews 
+language: "en" #why
+
+baseurl: ""
+url: "http://boldlygoes.co.uk"
+permalink: 
+cover: /assets/img/main_bg_lakes.jpg
+disqus_shortname: "BoldlyGoes"

@@ -6,8 +6,6 @@
 # Build settings
 markdown: kramdown
 permalink: pretty
-gems:
-  - jekyll-sitemap
 
 port: 3000
 
@@ -19,7 +17,7 @@ sass:
 title: BoldlyGoes
 email: 
 subtitle: outdoor articles and gear reviews.
-description: Three lads from Hertfordshire entertain you with musings on outdoor topics.
+description: Three lads from Hertfordshire entertain you with articles on outdoor topics.
 keywords: outdoor camping travel bushcraft gear reviews 
 language: "en" #why
 
@@ -27,4 +25,3 @@ baseurl: ""
 url: "http://boldlygoes.co.uk"
 permalink: 
 cover: /assets/img/main_bg_lakes.jpg
-disqus_shortname: "BoldlyGoes"

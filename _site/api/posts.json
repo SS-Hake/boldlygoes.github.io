@@ -35,10 +35,10 @@
 
   
     {
-        "title": "A Night In Norfolk",
-        "category": "",
-        "url": "/blog/a-night-in-norfolk",
-        "tags": [],
+        "title": "A night in Norfolk",
+        "category": "Features",
+        "url": "/blog/features/a-night-in-norfolk",
+        "tags": ["microadventures","beach","camping"],
         "date": "2016-11-01 00:00:00 +0000",
         "language": "en"
     }

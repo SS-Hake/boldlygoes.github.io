@@ -310,6 +310,9 @@ header {
     .articles-container .article-lockup .item h4 {
       font-size: 14px;
       font-weight: 700; }
+    .articles-container .article-lockup .item .post-link {
+      font-size: 14px;
+      font-weight: 700; }
     .articles-container .article-lockup .item .image {
       height: 50px;
       width: 50px;

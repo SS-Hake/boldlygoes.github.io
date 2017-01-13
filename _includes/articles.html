@@ -4,27 +4,41 @@
 		Most recent articles
 	</div>
 
-	<div class="article-lockup">
+	<!-- <div class="article-lockup">
 
 		<div class="item">
 			<h4>Tasty Summer Teas</h4>
-			<!-- <div class="image"></div> -->
+			<div class="image"></div>
 			<p class="blurb">Lorem ipsum dolor sit amet, te detracto legendos his, soluta offendit splendide pri et, te saperet vivendum tractatos mel. Constituto definitionem at his, cu mei nusquam voluptatibus...</p>
 		</div>
 
 		<div class="item">
 			<h4>Hennessey Hammock Review</h4>
-			<!-- <div class="image"></div> -->
+			<div class="image"></div>
 			<p class="blurb">Lorem ipsum dolor sit amet, te detracto legendos his, soluta offendit splendide pri et, te saperet vivendum tractatos mel. Constituto definitionem at his, cu mei nusquam voluptatibus...</p>
 		</div>
 
 		<div class="item">
 			<h4>New Forest Mushroom Odyssey</h4>
-			<!-- <div class="image"></div> -->
+			<div class="image"></div>
 			<p class="blurb">Lorem ipsum dolor sit amet, te detracto legendos his, soluta offendit splendide pri et, te saperet vivendum tractatos mel. Constituto definitionem at his, cu mei nusquam voluptatibus...</p>
 		</div>
 		
-	</div>
+	</div> -->
 
+	<ul class="article-lockup">
+	{% for post in site.posts  limit:3 %}
+	    <li class="item">
+	      <h2>
+	        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	      </h2>
+
+	      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+	      <p class="blurb">{{ post.description }}
+	      </p>
+	    </li>
+	{% endfor %}
+    </ul>
 	<div class="more-articles"></div>
 </div>

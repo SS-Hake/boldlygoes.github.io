@@ -7,7 +7,7 @@ author:            jsb
 tags:              microadventures beach camping
 ---
 
-<div class="bg-scroll" style="background-image: url('{{ site.github.url }}/media/img/night_norfolk.jpg')"></div>
+<div class="bg-scroll" style="background-image: url('{{ site.github.url }}/media/img/norfolk.jpg')"></div>
  
 
 It’s only 6 o’clock but it feels like the middle of the night. In truth, I really think even the middle of the night during summer would pale in comparison to the heavy veil of darkness laid upon us by that of the bleak days of November. It was perhaps against conventional wisdom to be camping that night but there we were anyway, sat on the Norfolk coast, not far from Wells-next-the-Sea, mesmerised by the lights of nearby fishing boats slowly panning our horizon and comforted by many layers of clothing and a box of fine Spanish wine. 

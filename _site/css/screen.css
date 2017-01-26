@@ -2022,24 +2022,35 @@ pre, pre[class*="language-"] {
   margin-bottom: 1.8em !important;
   /* override prism.js css */ }
 
-.faces-lockup {
-  margin: 20px auto 30px auto;
-  height: 200px;
-  width: 780px;
-  text-align: center; }
-  .faces-lockup .faces {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    background-size: cover;
-    background-position: center;
-    margin-right: 20px; }
-  .faces-lockup .sam {
-    background-image: url(../media/img/sam-small.png);
-    display: inline-block; }
-  .faces-lockup .james {
-    background-image: url(../media/img/james-small.png);
-    display: inline-block; }
-  .faces-lockup .harvey {
-    background-image: url(../media/img/harvey-small.png);
-    display: inline-block; }
+/* 
+.faces-lockup{
+	margin: 20px auto 30px auto;
+	height: 200px;
+	width: 780px;
+	text-align: center;
+
+	.faces{
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+		background-size: cover;
+		background-position: center;
+		margin-right: 20px;
+	}
+
+	.sam{
+		background-image: url(../media/img/sam-small.png);
+		display: inline-block;
+	}
+
+	.james{
+		background-image: url(../media/img/james-small.png);
+		display: inline-block;
+	}
+
+	.harvey{
+		background-image: url(../media/img/harvey-small.png);
+		display: inline-block;
+	}
+}
+ */

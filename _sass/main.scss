@@ -2,11 +2,11 @@
 .main-header {
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 40px;
     padding-top: 10rem;
     background-size: cover;
     background-position: center;
-    max-width: 800px;
+    width: 100%;
+    height: auto;
 
 
     &.has-cover {
@@ -34,7 +34,7 @@
     }
 
     .nav {
-        margin: 40px auto 50px;
+        margin: 40px auto 0px;
         padding-bottom: 20px;
 
         ul {

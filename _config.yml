@@ -16,7 +16,8 @@ baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "http://boldlygoes.co.uk" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
 cover:            /assets/mountain-cover.jpg
-disqus_shortname: "jekylldecent"
+disqus_shortname: "BoldlyGoes"
+twitter:          "boldlygoes"
 
 # Build settings
 markdown: kramdown

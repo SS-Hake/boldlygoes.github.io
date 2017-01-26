@@ -559,11 +559,11 @@ blockquote {
 .main-header {
   margin-right: auto;
   margin-left: auto;
-  margin-bottom: 40px;
   padding-top: 10rem;
   background-size: cover;
   background-position: center;
-  max-width: 800px; }
+  width: 100%;
+  height: auto; }
   .main-header.has-cover .page-title,
   .main-header.has-cover .page-title a,
   .main-header.has-cover .page-description,
@@ -579,7 +579,7 @@ blockquote {
     max-width: 500px;
     margin: auto; }
   .main-header .nav {
-    margin: 40px auto 50px;
+    margin: 40px auto 0px;
     padding-bottom: 20px; }
     .main-header .nav ul {
       list-style: none;
@@ -2030,8 +2030,8 @@ pre, pre[class*="language-"] {
 	text-align: center;
 
 	.faces{
-		width: 100px;
-		height: 100px;
+		width: 200px;
+		height: 200px;
 		border-radius: 50%;
 		background-size: cover;
 		background-position: center;
@@ -2052,5 +2052,48 @@ pre, pre[class*="language-"] {
 		background-image: url(../media/img/harvey-small.png);
 		display: inline-block;
 	}
-}
- */
+} */
+.body-lockup {
+  width: 100%;
+  height: 1200px;
+  background-color: grey; }
+  .body-lockup .first-line .left-third {
+    width: 40%;
+    height: 400px;
+    float: left;
+    background-image: url(/media/img/lords-wood.jpg);
+    background-size: cover;
+    background-position: center; }
+  .body-lockup .first-line .right {
+    width: 60%;
+    height: 400px;
+    float: left;
+    background-image: url(/media/img/new-forest.jpg);
+    background-size: cover;
+    background-position: center; }
+  .body-lockup .second-line .right-side {
+    width: 50%;
+    height: 400px;
+    float: left;
+    background-size: cover;
+    background-position: center; }
+  .body-lockup .second-line .left-side {
+    width: 50%;
+    height: 400px;
+    float: left;
+    background-size: cover;
+    background-position: center; }
+  .body-lockup .third-line .left {
+    width: 60%;
+    height: 400px;
+    float: left;
+    background-image: url(/media/img/high-wood.jpg);
+    background-size: cover;
+    background-position: center; }
+  .body-lockup .third-line .right-third {
+    width: 40%;
+    height: 400px;
+    float: left;
+    background-image: url(/media/img/lords-fire.jpg);
+    background-size: cover;
+    background-position: center; }

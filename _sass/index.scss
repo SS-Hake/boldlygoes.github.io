@@ -6,8 +6,8 @@
 	text-align: center;
 
 	.faces{
-		width: 100px;
-		height: 100px;
+		width: 200px;
+		height: 200px;
 		border-radius: 50%;
 		background-size: cover;
 		background-position: center;
@@ -28,5 +28,73 @@
 		background-image: url(../media/img/harvey-small.png);
 		display: inline-block;
 	}
-}
- */
+} */
+ 
+
+.body-lockup {
+	width: 100%;
+	height: 1200px;
+	background-color: grey;
+
+	.first-line {
+		
+
+		.left-third {
+			width: 40%;
+			height: 400px;
+			float: left;
+			background-image:url(/media/img/lords-wood.jpg);
+			background-size: cover;
+			background-position: center;
+
+		}
+		.right {
+			width: 60%;
+			height: 400px;
+			float: left;
+			background-image:url(/media/img/new-forest.jpg);
+			background-size: cover;
+			background-position: center;
+		}
+	}
+	.second-line {
+		
+
+		.right-side {
+			width: 50%;
+			height: 400px;
+			float: left;
+			background-size: cover;
+			background-position: center;
+		}
+		.left-side {
+			width: 50%;
+			height: 400px;
+			float: left;
+			background-size: cover;
+			background-position: center;
+		}
+
+	}
+	.third-line {
+		
+
+		.left {
+			width: 60%;
+			height: 400px;
+			float: left;
+			background-image:url(/media/img/high-wood.jpg);
+			background-size: cover;
+			background-position: center;
+		}
+		.right-third {
+			width: 40%;
+			height: 400px;
+			float: left;
+			background-image:url(/media/img/lords-fire.jpg);
+			background-size: cover;
+			background-position: center;
+		}
+	}
+
+	}

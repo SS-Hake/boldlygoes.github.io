@@ -1,5 +1,5 @@
 ---
-layout:    about
+layout:    default
 permalink: "/about/"
 author:    boldlygoes
 keywords:  about person demo example

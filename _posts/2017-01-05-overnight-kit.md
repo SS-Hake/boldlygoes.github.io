@@ -3,7 +3,7 @@ layout:            post
 title:             "My Overnight Kit "
 menutitle:         "Overnight Kit"
 category:          Features
-author:            James Bullen
+author:            JB
 tags:              gear microadventures 
 comments:          true
 ---

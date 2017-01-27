@@ -1,11 +1,11 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      scs_h                                      # used for author lookup in posts and for first two characters in the about page back button
+  initial:      SS-H                                      # used for author lookup in posts and for first two characters in the about page back button
   name:         "Sam Scott-Hake"                                # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:                                # OPTIONAL: author picture
   bio:          Outdoor articles and reviews                          # OPTIONAL: text below author name in posts
-  location:     UK                                       # OPTIONAL: used to display location of the author
-  website:      "http://boldlygoes.co.uk"                    # OPTIONAL: link to the author of a post
+  location:     Herts, UK                                       # OPTIONAL: used to display location of the author
+  website:      "https://www.instagram.com/scs_h/"                    # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
   twitter:                                         # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
@@ -19,15 +19,15 @@ default:                                                      # Fallback if noth
   pinterest:                                                  # OPTIONAL: used in the about page
   dribble:                                                    # OPTIONAL: used in the about page
   behance:                                                    # OPTIONAL: used in the about page
-James Bullen:
-  initial:      jsb
+JB:
+  initial:      JB
   name:         "James Bullen"        
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/james.png  
   bio:           
-  location:     Herts 
+  location:     Herts, UK 
   instagram:    "https://www.instagram.com/j.s.b.1990/" 
   twitter:      
   github:    
-Harvey Hayman:
-  initial:         
+Harvey Rae:
+  initial:                   

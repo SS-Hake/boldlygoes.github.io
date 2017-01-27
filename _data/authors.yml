@@ -21,11 +21,13 @@ default:                                                      # Fallback if noth
   behance:                                                    # OPTIONAL: used in the about page
 James Bullen:
   initial:      jsb
-  name:         "James bullen"        
+  name:         "James Bullen"        
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/james.png  
   bio:           
   location:     Herts 
   instagram:    "https://www.instagram.com/j.s.b.1990/" 
   twitter:      
-  github:       
+  github:    
+Harvey Hayman:
+  initial:         

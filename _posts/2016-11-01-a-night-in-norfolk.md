@@ -3,7 +3,7 @@ layout:            post
 title:             "24-hours in Norfolk"
 menutitle:         "24-hours in Norfolk"
 category:          Features
-author:            jsb
+author:            James Bullen
 tags:              microadventures beach camping
 comments:          true
 ---

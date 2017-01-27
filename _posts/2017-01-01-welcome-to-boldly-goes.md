@@ -6,6 +6,7 @@ category:          Features
 author:            scs_h
 tags:              intro content mission
 comments:          true
+draft:             true
 ---
 
 test This is test text

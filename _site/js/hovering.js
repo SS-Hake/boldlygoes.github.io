@@ -3,7 +3,7 @@ $('document').ready(function() {
 	$(".wc, .nf").hide();
 
 	$(".hvrwc").hover(function() {
-		$(".wc").fadeIn(100).css("display", "block").css("z-index", "500");
+		$(".wc").fadeIn(100).css("display", "block");
 	}, function() {
 		$(".wc").fadeOut(100);
 	});

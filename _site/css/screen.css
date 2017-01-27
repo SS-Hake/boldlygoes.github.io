@@ -72,28 +72,28 @@
     margin: auto; }
     .body-lockup a span, .body-lockup a:hover span, .body-lockup a:visited span, .body-lockup a:link span, .body-lockup a:active span {
       font-size: 16px; }
-  .body-lockup .first-line .left-third {
+  .body-lockup .first-line .top-left {
     width: 40%;
     height: 600px;
     float: left;
-    background-image: url(/media/img/norfolk.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
     vertical-align: middle;
     line-height: 600px;
     color: white; }
-    .body-lockup .first-line .left-third .overlay {
+    .body-lockup .first-line .top-left .overlay {
       display: none; }
-  .body-lockup .first-line .left-third:hover > .overlay {
-    width: 100%;
-    height: 100%;
+  .body-lockup .first-line .top-left:hover > .overlay {
+    width: 40%;
+    height: 600px;
     position: absolute;
-    background-color: #000;
-    opacity: 0.5;
+    background: rgba(114, 145, 156, 0.6);
+    color: white;
+    font-size: 24px;
     color: white;
     display: block; }
-  .body-lockup .first-line .right {
+  .body-lockup .first-line .top-right {
     width: 60%;
     height: 600px;
     float: left;
@@ -104,8 +104,22 @@
     vertical-align: middle;
     line-height: 600px;
     color: white; }
-  .body-lockup .second-line .right-side {
-    width: 50%;
+    .body-lockup .first-line .top-right .overlay {
+      display: none;
+      color: white; }
+  .body-lockup .first-line .top-right:hover > .overlay {
+    width: 60%;
+    height: 600px;
+    position: absolute;
+    background-color: #000;
+    background: rgba(114, 145, 156, 0.6);
+    color: white;
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    vertical-align: middle; }
+  .body-lockup .second-line .bot-left {
+    width: 60%;
     height: 600px;
     float: left;
     background-size: cover;
@@ -114,8 +128,22 @@
     vertical-align: middle;
     line-height: 600px;
     color: white; }
-  .body-lockup .second-line .left-side {
-    width: 50%;
+    .body-lockup .second-line .bot-left .overlay {
+      display: none;
+      color: white; }
+  .body-lockup .second-line .bot-left:hover > .overlay {
+    width: 60%;
+    height: 600px;
+    position: absolute;
+    background-color: #000;
+    background: rgba(114, 145, 156, 0.6);
+    color: white;
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    vertical-align: middle; }
+  .body-lockup .second-line .bot-right {
+    width: 40%;
     height: 600px;
     float: left;
     background-size: cover;
@@ -124,6 +152,20 @@
     vertical-align: middle;
     line-height: 600px;
     color: white; }
+    .body-lockup .second-line .bot-right .overlay {
+      display: none;
+      color: white; }
+  .body-lockup .second-line .bot-right:hover > .overlay {
+    width: 40%;
+    height: 600px;
+    position: absolute;
+    background-color: #000;
+    background: rgba(114, 145, 156, 0.6);
+    color: white;
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    vertical-align: middle; }
 
 .splitter {
   margin: auto;
@@ -770,16 +812,18 @@ blockquote {
   font-size: 14px;
   line-height: 2; }
 
-.content .short-diver {
-  position: relative;
-  margin-bottom: 60px; }
-  .content .short-diver:after {
-    content: '';
-    display: block;
-    width: 40px;
-    height: 4px;
-    background: #eeeeee;
-    margin: 60px auto 0; }
+.content {
+  margin-top: 40px; }
+  .content .short-diver {
+    position: relative;
+    margin-bottom: 60px; }
+    .content .short-diver:after {
+      content: '';
+      display: block;
+      width: 40px;
+      height: 4px;
+      background: #eeeeee;
+      margin: 60px auto 0; }
 
 .pagination {
   font-size: 15px;

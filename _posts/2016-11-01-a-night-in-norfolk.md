@@ -5,6 +5,7 @@ menutitle:         "24-hours in Norfolk"
 category:          Features
 author:            jsb
 tags:              microadventures beach camping
+comments:          true
 ---
 
 <div class="bg-scroll" style="background-image: url('{{ site.github.url }}/media/img/norfolk.jpg')"></div>

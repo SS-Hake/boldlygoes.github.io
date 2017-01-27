@@ -5,6 +5,7 @@ menutitle:         "Picos de Europa"
 category:          Features
 author:            scs_h
 tags:              adventure hiking climbing
+comments:          true
 ---
 
 

@@ -2097,3 +2097,7 @@ pre, pre[class*="language-"] {
     background-image: url(/media/img/lords-fire.jpg);
     background-size: cover;
     background-position: center; }
+
+.splitter {
+  margin: auto;
+  max-width: 800px; }

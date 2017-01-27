@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "A night in Norfolk"
-menutitle:         "Night in Norfolk"
+title:             "24-hours in Norfolk"
+menutitle:         "24-hours in Norfolk"
 category:          Features
 author:            jsb
 tags:              microadventures beach camping

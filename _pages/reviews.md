@@ -8,3 +8,5 @@ menutitle: Reviews
 weight:    90
 excerpt:   Reviews of outdoor gear and techniques.
 ---
+
+Coming soon

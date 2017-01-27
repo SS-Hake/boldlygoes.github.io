@@ -33,24 +33,30 @@
 
 .body-lockup {
 	width: 100%;
-	height: 1200px;
+	height: 1800px;
 	background-color: grey;
+	color: white;
+	@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+	font-family: 'Droid Serif', serif;
 
 	.first-line {
 		
 
 		.left-third {
 			width: 40%;
-			height: 400px;
+			height: 600px;
 			float: left;
 			background-image:url(/media/img/lords-wood.jpg);
 			background-size: cover;
 			background-position: center;
+			text-align: center;
+			vertical-align: middle;
+			line-height: 600px;
 
 		}
 		.right {
 			width: 60%;
-			height: 400px;
+			height: 600px;
 			float: left;
 			background-image:url(/media/img/new-forest.jpg);
 			background-size: cover;
@@ -62,14 +68,14 @@
 
 		.right-side {
 			width: 50%;
-			height: 400px;
+			height: 600px;
 			float: left;
 			background-size: cover;
 			background-position: center;
 		}
 		.left-side {
 			width: 50%;
-			height: 400px;
+			height: 600px;
 			float: left;
 			background-size: cover;
 			background-position: center;
@@ -81,7 +87,7 @@
 
 		.left {
 			width: 60%;
-			height: 400px;
+			height: 600px;
 			float: left;
 			background-image:url(/media/img/high-wood.jpg);
 			background-size: cover;
@@ -89,7 +95,7 @@
 		}
 		.right-third {
 			width: 40%;
-			height: 400px;
+			height: 600px;
 			float: left;
 			background-image:url(/media/img/lords-fire.jpg);
 			background-size: cover;

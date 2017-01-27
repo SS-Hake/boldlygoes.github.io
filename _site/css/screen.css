@@ -1,4 +1,134 @@
 @charset "UTF-8";
+/* 
+.faces-lockup{
+	margin: 20px auto 30px auto;
+	height: 200px;
+	width: 780px;
+	text-align: center;
+
+	.faces{
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		background-size: cover;
+		background-position: center;
+		margin-right: 20px;
+	}
+
+	.sam{
+		background-image: url(../media/img/sam-small.png);
+		display: inline-block;
+	}
+
+	.james{
+		background-image: url(../media/img/james-small.png);
+		display: inline-block;
+	}
+
+	.harvey{
+		background-image: url(../media/img/harvey-small.png);
+		display: inline-block;
+	}
+} */
+.body-lockup {
+  width: 100%;
+  height: 1200px;
+  @import url("https://fonts.googleapis.com/css?family=Droid+Serif");
+  font-family: 'Droid Serif', serif;
+  color: #3A4145;
+  	/* .third-line {
+  		
+  
+  		.left {
+  			width: 60%;
+  			height: 600px;
+  			float: left;
+  			background-image:url(/media/img/high-wood.jpg);
+  			background-size: cover;
+  			background-position: center;
+  			text-align: center;
+  			vertical-align: middle;
+  			line-height: 600px;
+  			color: white;
+  		}
+  		.right-third {
+  			width: 40%;
+  			height: 600px;
+  			float: left;
+  			background-image:url(/media/img/lords-fire.jpg);
+  			background-size: cover;
+  			background-position: center;
+  			text-align: center;
+  			vertical-align: middle;
+  			line-height: 600px;
+  			color: white;
+  		}
+  	} */ }
+  .body-lockup a, .body-lockup a:hover, .body-lockup a:visited, .body-lockup a:link, .body-lockup a:active {
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+    font-style: bold;
+    margin: auto; }
+    .body-lockup a span, .body-lockup a:hover span, .body-lockup a:visited span, .body-lockup a:link span, .body-lockup a:active span {
+      font-size: 16px; }
+  .body-lockup .first-line .left-third {
+    width: 40%;
+    height: 600px;
+    float: left;
+    background-image: url(/media/img/norfolk.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 600px;
+    color: white; }
+    .body-lockup .first-line .left-third .overlay {
+      display: none; }
+  .body-lockup .first-line .left-third:hover > .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #000;
+    opacity: 0.5;
+    color: white;
+    display: block; }
+  .body-lockup .first-line .right {
+    width: 60%;
+    height: 600px;
+    float: left;
+    background-image: url(/media/img/new-forest.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 600px;
+    color: white; }
+  .body-lockup .second-line .right-side {
+    width: 50%;
+    height: 600px;
+    float: left;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 600px;
+    color: white; }
+  .body-lockup .second-line .left-side {
+    width: 50%;
+    height: 600px;
+    float: left;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 600px;
+    color: white; }
+
+.splitter {
+  margin: auto;
+  max-width: 800px; }
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -2021,113 +2151,3 @@ ol {
 pre, pre[class*="language-"] {
   margin-bottom: 1.8em !important;
   /* override prism.js css */ }
-
-/* 
-.faces-lockup{
-	margin: 20px auto 30px auto;
-	height: 200px;
-	width: 780px;
-	text-align: center;
-
-	.faces{
-		width: 200px;
-		height: 200px;
-		border-radius: 50%;
-		background-size: cover;
-		background-position: center;
-		margin-right: 20px;
-	}
-
-	.sam{
-		background-image: url(../media/img/sam-small.png);
-		display: inline-block;
-	}
-
-	.james{
-		background-image: url(../media/img/james-small.png);
-		display: inline-block;
-	}
-
-	.harvey{
-		background-image: url(../media/img/harvey-small.png);
-		display: inline-block;
-	}
-} */
-.grayscale {
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%); }
-
-a, a:hover, a:visited, a:link, a:active {
-  text-decoration: none;
-  font-size: 24px;
-  color: white;
-  font-style: bold; }
-
-.body-lockup, a {
-  width: 100%;
-  height: 1800px;
-  color: white;
-  @import url("https://fonts.googleapis.com/css?family=Droid+Serif");
-  font-family: 'Droid Serif', serif; }
-  .body-lockup .first-line .left-third, a .first-line .left-third {
-    width: 40%;
-    height: 600px;
-    float: left;
-    background-image: url(/media/img/norfolk.jpg);
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 600px; }
-  .body-lockup .first-line .right, a .first-line .right {
-    width: 60%;
-    height: 600px;
-    float: left;
-    background-image: url(/media/img/new-forest.jpg);
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 600px; }
-  .body-lockup .second-line .right-side, a .second-line .right-side {
-    width: 50%;
-    height: 600px;
-    float: left;
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 600px; }
-  .body-lockup .second-line .left-side, a .second-line .left-side {
-    width: 50%;
-    height: 600px;
-    float: left;
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 600px; }
-  .body-lockup .third-line .left, a .third-line .left {
-    width: 60%;
-    height: 600px;
-    float: left;
-    background-image: url(/media/img/high-wood.jpg);
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 600px; }
-  .body-lockup .third-line .right-third, a .third-line .right-third {
-    width: 40%;
-    height: 600px;
-    float: left;
-    background-image: url(/media/img/lords-fire.jpg);
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 600px; }
-
-.splitter {
-  margin: auto;
-  max-width: 800px; }

@@ -3,14 +3,20 @@ $('document').ready(function() {
 	$(".wc, .nf").hide();
 
 	$(".hvrwc").hover(function() {
-		$(".wc").fadeIn(1000).css("display", "block");
+		$(".wc").fadeIn(100).css("display", "block").css("z-index", "500");
 	}, function() {
-		$(".wc").fadeOut(1000);
+		$(".wc").fadeOut(100);
 	});
 
 	$(".hvrnf").hover(function() {
-		$(".nf").fadeIn(1000);
+		$(".nf").fadeIn(100);
 	}, function() {
-		$(".nf").fadeOut(1000);
+		$(".nf").fadeOut(100);
+	});
+
+	$(".hvrkg").hover(function() {
+		$(".kg").fadeIn(100);
+	}, function() {
+		$(".kg").fadeOut(100);
 	});
 });

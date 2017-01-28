@@ -1,11 +1,11 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      SS-H                                      # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Sam Scott-Hake"                                # used to display author name
+  initial:      BG                                   # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Boldly Goes Team"                                # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:                                # OPTIONAL: author picture
-  bio:          Outdoor articles and reviews                          # OPTIONAL: text below author name in posts
+  bio:                                    # OPTIONAL: text below author name in posts
   location:     Herts, UK                                       # OPTIONAL: used to display location of the author
-  website:      "https://www.instagram.com/scs_h/"                    # OPTIONAL: link to the author of a post
+  website:      "https://www.instagram.com/boldly_goes/"                    # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
   twitter:                                         # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
@@ -22,7 +22,7 @@ default:                                                      # Fallback if noth
 JB:
   initial:      JB
   name:         "James Bullen"        
-  cover:        /assets/mountain-alternative-cover.jpg  
+  cover:          
   picture:      /assets/james.png  
   bio:           
   location:     Herts, UK 
@@ -30,4 +30,22 @@ JB:
   twitter:      
   github:    
 Harvey Rae:
-  initial:                   
+  initial:      HR
+  name:         "Harvey Rae"        
+  cover:         
+  picture:      /assets/harvey.png  
+  bio:           
+  location:     London, UK 
+  instagram:    "https://www.instagram.com/harvey.rae/" 
+  twitter:      
+  github:  
+Sam Scott-Hake:
+  initial:      SS-H
+  name:         "Sam Scott-Hake"        
+  cover:         
+  picture:      /assets/sam.png  
+  bio:           
+  location:     Herts, UK 
+  instagram:    "https://www.instagram.com/scs_h/" 
+  twitter:      
+  github:   

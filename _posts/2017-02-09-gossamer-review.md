@@ -32,7 +32,7 @@ Cons
 <figcaption>The Gossamer in all it's saggy glory.</figcaption>
 </figure>
 
-I bought my Gossamer from OutdoorGear.co.uk for £75 last April, before the BoldlyGoes trip to Spain.  I initially chose it over the Wild Country Zephyros 1, due to it’s interesting design, completely separate flysheet and £35 price difference. The two-pole tunnel design isn't a popular tent design, but it looks great and pitching is a breeze, even in bad conditions.
+I bought my Gossamer from OutdoorGear.co.uk for £75 last April, before the BoldlyGoes trip to Spain.  I initially chose it over the Wild Country Zephyros 1, due to it’s interesting design and £35 price difference. The two-pole tunnel design isn't a popular tent design, but it looks great and pitching is a breeze, even in bad conditions.
 
 ## Build Quality
 

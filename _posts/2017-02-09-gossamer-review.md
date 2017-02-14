@@ -18,7 +18,6 @@ Pack size: 45cmx17cm
 
 Pros
 :  Great build quality
-:  Separate fly sheet
 :  Striking design
 :  Relatively cheap
 

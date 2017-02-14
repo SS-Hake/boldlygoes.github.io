@@ -32,7 +32,7 @@
 
 
 .body-lockup {
-	width: 100%;
+	max-width: 860px;
 	height: 1200px;
 	@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
 	font-family: 'Droid Serif', serif;
@@ -43,7 +43,8 @@
     font-size: 24px;
     color: white;
     font-style: bold;
-    margin: auto;
+    margin-left: auto;
+
     	 span {
     	 	font-size: 16px;
     	 }
@@ -206,3 +207,4 @@
 	margin: auto;
 	max-width: 800px;
 }
+

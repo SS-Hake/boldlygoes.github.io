@@ -1,10 +1,10 @@
 ---
 layout:            post
-title:             "24-hours in Norfolk"
-menutitle:         "24-hours in Norfolk"
+title:             "Twenty-four hours in Norfolk"
+menutitle:         "Twenty-four hours in Norfolk"
 category:          Features
 author:            JB
-tags:              microadventures beach camping
+tags:              microadventures beach camping 
 comments:          true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "Soloventuring: Taking on your frist trip"
-menutitle:         "Soloventuring: Taking on your frist trip"
+title:             "Soloventuring: Taking on your first trip"
+menutitle:         "Soloventuring: Taking on your first trip"
 category:          Features
 author:            JB
 tags:              features
@@ -18,11 +18,11 @@ Obviously my fears were a little irrational and the reality of the situation was
 
 If you’re wondering at this point why the hell you’d ever want to head out into the wilderness alone here’s five reasons I’d give to persuade you to give it a try sometime:
 
-1. Digital Detox - If you are anything like me, you probably spend too much time looking at screens, whether it’s at work or at home. Many of us spend our lives in a state of hyper-connection, checking what our friends are up to, what’s happening in the news, and binge watching the latest netflix hit show from the minute we wake up to the minute we go to bed. Get outside, lose signal, and relax. 
-2. Challenge yourself - Trying something new and getting out of our comfort zone is something we all know we’re supposed to do but it’s easy to get wrapped up in the day-to-day and before you know it life has become like a real-life Groundhog day. A microadventure is an easy way to reboot. Choose somewhere beautiful, throw caution to the wind, pack your bags and go. 
-3. Be Independent - Do your feet hurt? Stop walking. Are you hungry? Eat. Have you found a view you want to stop and take in? Take all the time you need. Spotted an interesting detour? Go. When you travel solo you are the master of your own destiny. No one can tell you what to do and there is no need to negotiate plans, you are free to go where you want and at whatever pace you like. Independence is freedom.
-4. Finding Solitude - Living in solitude for longs periods of time can be unhealthy and is certainly undesirable as us Humans are inherently sociable creatures. However, finding solitude once in awhile can actually be beneficial to your creativity and sense of personal identity. For hundreds of years religious types like them monks have used solitude to bolster their spirituality (so there’s that, if that sort of thing floats your boat). 
-5. Appreciating Nature - Without sounding too hippy-ish, travelling alone can be rewarding in that you feel a little more connected to the environment around you. You’ll have plenty of time to take in the sights and sounds of your surroundings on your solo trip. Something that always gives me great pleasure is the moment when I pause on a summer cycle and the sound of the whirring tyres on tarmac and the clanking gears give way to sound of skylarks in the fields and the breeze through the trees. Ok, I’m getting a little sentimental but you get the idea! 
+1. <p style="font-weight: bold">Digital Detox </p> If you are anything like me, you probably spend too much time looking at screens, whether it’s at work or at home. Many of us spend our lives in a state of hyper-connection, checking what our friends are up to, what’s happening in the news, and binge watching the latest netflix hit show from the minute we wake up to the minute we go to bed. Get outside, lose signal, and relax. 
+2. <p style="font-weight: bold">Challenge yourself</p> Trying something new and getting out of our comfort zone is something we all know we’re supposed to do but it’s easy to get wrapped up in the day-to-day and before you know it life has become like a real-life Groundhog day. A microadventure is an easy way to reboot. Choose somewhere beautiful, throw caution to the wind, pack your bags and go. 
+3. <p style="font-weight: bold">Be Independent</p> Do your feet hurt? Stop walking. Are you hungry? Eat. Have you found a view you want to stop and take in? Take all the time you need. Spotted an interesting detour? Go. When you travel solo you are the master of your own destiny. No one can tell you what to do and there is no need to negotiate plans, you are free to go where you want and at whatever pace you like. Independence is freedom.
+4. <p style="font-weight: bold">Finding Solitude</p> Living in solitude for longs periods of time can be unhealthy and is certainly undesirable as us Humans are inherently sociable creatures. However, finding solitude once in awhile can actually be beneficial to your creativity and sense of personal identity. For hundreds of years religious types like them monks have used solitude to bolster their spirituality (so there’s that, if that sort of thing floats your boat). 
+5. <p style="font-weight: bold">Appreciating Nature</p> Without sounding too hippy-ish, travelling alone can be rewarding in that you feel a little more connected to the environment around you. You’ll have plenty of time to take in the sights and sounds of your surroundings on your solo trip. Something that always gives me great pleasure is the moment when I pause on a summer cycle and the sound of the whirring tyres on tarmac and the clanking gears give way to sound of skylarks in the fields and the breeze through the trees. Ok, I’m getting a little sentimental but you get the idea! 
 
 <figure>
 <img src="{{ site.github.url }}/media/img/solovent/3-camping-setup.jpg" />

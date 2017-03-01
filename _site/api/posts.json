@@ -4,7 +4,7 @@
     {
         "title": "Soloventuring: Taking on your first solo trip",
         "category": "Features",
-        "url": "/blog/features/soloventures",
+        "url": "/features/soloventures",
         "tags": ["features"],
         "date": "2017-03-01 00:00:00 +0000",
         "language": "en"
@@ -15,7 +15,7 @@
     {
         "title": "The road to a 10lb pack: The first step",
         "category": "Features",
-        "url": "/blog/features/ultralight-backpacking",
+        "url": "/features/ultralight-backpacking",
         "tags": ["features"],
         "date": "2017-02-28 00:00:00 +0000",
         "language": "en"
@@ -26,7 +26,7 @@
     {
         "title": "24 hours: in the New Forest",
         "category": "Features",
-        "url": "/blog/features/24-newforest",
+        "url": "/features/24-newforest",
         "tags": ["microadventures","mushrooms","camping"],
         "date": "2017-02-18 00:00:00 +0000",
         "language": "en"
@@ -37,7 +37,7 @@
     {
         "title": "Photo Story: Edinburgh to Stornorway",
         "category": "Features",
-        "url": "/blog/features/cycling-scotland",
+        "url": "/features/cycling-scotland",
         "tags": ["cycling","adventure","photostories"],
         "date": "2017-02-14 00:00:00 +0000",
         "language": "en"
@@ -48,7 +48,7 @@
     {
         "title": "Jack Wolfskin Gossamer 1 Review",
         "category": "Reviews",
-        "url": "/blog/reviews/gossamer-review",
+        "url": "/reviews/gossamer-review",
         "tags": ["reviews","tents","gear"],
         "date": "2017-02-09 00:00:00 +0000",
         "language": "en"
@@ -61,7 +61,7 @@
     {
         "title": "James' Overnight Kit ",
         "category": "Features",
-        "url": "/blog/features/overnight-kit",
+        "url": "/features/overnight-kit",
         "tags": ["gear","microadventures"],
         "date": "2017-01-05 00:00:00 +0000",
         "language": "en"
@@ -72,7 +72,7 @@
     {
         "title": "24 hours: in Norfolk",
         "category": "Features",
-        "url": "/blog/features/24-norfolk",
+        "url": "/features/24-norfolk",
         "tags": ["microadventures","beach","camping"],
         "date": "2016-11-01 00:00:00 +0000",
         "language": "en"

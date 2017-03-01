@@ -40,9 +40,9 @@ My alcohol stove and pan set with spoon
 
 Notice that I've chosen simple re-usable plastic bottles for my water, a foam roll as a sleeping mat and will be eating from the one pot which I cook in.  This saves me the weight of a water bladder and hose, the heavy plastic of an inflatable sleeping mat, and a bowl or mug which I had been bringing to eat out of.  I've also chosen a simple plastic spoon which weighs 10 grams, over a more expensive, fancy titanium contraption from Amazon, because, it's a spoon.  
 
-Note that you could also opt for a stoveless setup, but we'll [get to that later](https://boldlygoes.co.uk/blog/features/ultralight-part-5 "Part 5") 
+Note that you could also opt for a stoveless setup, but we'll [get to that later](https://boldlygoes.co.uk/features/ultralight-part-5 "Part 5") 
 
 Now we have a base, base weight.  These items are the ones which probably aren't going to change depending on the season or the amount of time we hike for. In the next part, we'll look at the items which are going to vary depending on the season and weather during your time outdoors.
 
-[Part 2: Ultralight clothing](https://boldlygoes.co.uk/blog/features/ultralight-part-2 "Part 2")
+[Part 2: Ultralight clothing](https://boldlygoes.co.uk/features/ultralight-part-2 "Part 2")
 

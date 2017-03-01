@@ -33,8 +33,8 @@
 .body-lockup {
   max-width: 860px;
   height: 1200px;
-  @import url("https://fonts.googleapis.com/css?family=Droid+Serif");
-  font-family: 'Droid Serif', serif;
+  @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300");
+  font-family: 'Open Sans Condensed', sans-serif;
   color: #3A4145;
   	/* .third-line {
   		
@@ -83,7 +83,11 @@
     line-height: 600px;
     color: white; }
     .body-lockup .first-line .top-left .overlay {
-      display: none; }
+      display: none;
+      color: white;
+      letter-spacing: 4px;
+      font-size: 20;
+      font-style: bold; }
   .body-lockup .first-line .top-left:hover > .overlay {
     width: 40%;
     height: 600px;
@@ -106,7 +110,10 @@
     color: white; }
     .body-lockup .first-line .top-right .overlay {
       display: none;
-      color: white; }
+      color: white;
+      letter-spacing: 4px;
+      font-size: 20;
+      font-style: bold; }
   .body-lockup .first-line .top-right:hover > .overlay {
     width: 60%;
     height: 600px;
@@ -130,7 +137,10 @@
     color: white; }
     .body-lockup .second-line .bot-left .overlay {
       display: none;
-      color: white; }
+      color: white;
+      letter-spacing: 4px;
+      font-size: 20;
+      font-style: bold; }
   .body-lockup .second-line .bot-left:hover > .overlay {
     width: 60%;
     height: 600px;
@@ -154,7 +164,10 @@
     color: white; }
     .body-lockup .second-line .bot-right .overlay {
       display: none;
-      color: white; }
+      color: white;
+      letter-spacing: 4px;
+      font-size: 20;
+      font-style: bold; }
   .body-lockup .second-line .bot-right:hover > .overlay {
     width: 40%;
     height: 600px;

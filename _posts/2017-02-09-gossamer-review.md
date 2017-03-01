@@ -62,7 +62,7 @@ As I’ve said, the Gossamer has slotted itself into a strange place in the mark
 ## Final Thoughts
 In conclusion, the Gossamer 1 would be a great first tent for anyone given its modest price tag, but it is let down by the lack of conviction in it’s design, or possibly it’s total conviction to not be like any other tent on the market. When I want to sit in my tent and watch the rain, I am forced to just get up like when I am bivvy bagging.  When I feel cosy and warm like in a bivvy bag, I get damp from the condensation like I am in a cramped tent.  It’s the best and worst of both worlds, but no one fault completely hampers the experience.
 
-I don’t regret the purchase and I can see it surviving at least two or three more seasons, it isn’t too heavy or bulky enough to put me off carrying it on longer hikes.  However, if it broke I would not buy it again, I’d spend a little extra for the added comfort and gear security offered by the Wild Country Zephyros 1.
+I don’t regret the purchase and I can see it surviving at least two or three more seasons, it isn’t too heavy or bulky enough to put me off carrying it on longer hikes.  However, if it broke I would not buy it again, if I were buying a tent in the same price range again, I’d spend a little extra for the added comfort and gear security offered by the Wild Country Zephyros 1.
 
 <figure>
 <img src="{{ site.github.url }}/media/img/gossamer/door.jpg" />

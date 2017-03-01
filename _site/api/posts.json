@@ -13,9 +13,9 @@
 
   
     {
-        "title": "Twenty-four hours in the New Forest",
+        "title": "24 hours: in the New Forest",
         "category": "Features",
-        "url": "/blog/features/new-forest",
+        "url": "/blog/features/24-newforest",
         "tags": ["microadventures","mushrooms","camping"],
         "date": "2017-02-18 00:00:00 +0000",
         "language": "en"
@@ -61,9 +61,9 @@
 
   
     {
-        "title": "Twenty-four hours in Norfolk",
+        "title": "24 hours: in Norfolk",
         "category": "Features",
-        "url": "/blog/features/a-night-in-norfolk",
+        "url": "/blog/features/24-norfolk",
         "tags": ["microadventures","beach","camping"],
         "date": "2016-11-01 00:00:00 +0000",
         "language": "en"

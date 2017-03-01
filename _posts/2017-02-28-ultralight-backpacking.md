@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "The road to a 10lb pack: The first step"
-menutitle:         "GOING ULTRALIGHT"
+menutitle:         "Going ultralight: Part 1"
 category:          Features
 author:            SSH
 tags:              features

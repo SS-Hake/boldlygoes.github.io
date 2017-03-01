@@ -34,8 +34,8 @@
 .body-lockup {
 	max-width: 860px;
 	height: 1200px;
-	@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
-	font-family: 'Droid Serif', serif;
+	@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+	font-family: 'Open Sans Condensed', sans-serif;
 	color: #3A4145;
 
 	a, a:hover, a:visited, a:link, a:active {
@@ -64,7 +64,11 @@
 			color: white;
 
 			.overlay {
-				display:none;
+				display: none;
+				color: white;
+				letter-spacing: 4px;
+				font-size: 20;
+				font-style: bold;
 			}
 		}
 
@@ -93,6 +97,9 @@
 			.overlay {
 				display: none;
 				color: white;
+				letter-spacing: 4px;
+				font-size: 20;
+				font-style: bold;
 			}
 		}
 
@@ -126,6 +133,9 @@
 			.overlay {
 				display: none;
 				color: white;
+				letter-spacing: 4px;
+				font-size: 20;
+				font-style: bold;
 			}
 		}
 
@@ -156,6 +166,9 @@
 			.overlay {
 				display: none;
 				color: white;
+				letter-spacing: 4px;
+				font-size: 20;
+				font-style: bold;
 			}
 		}
 

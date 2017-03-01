@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "Soloventuring: Taking on your first trip"
-menutitle:         "Soloventuring: Taking on your first trip"
+title:             "Soloventuring: Taking on your first solo trip"
+menutitle:         "Soloventuring: Taking on your first solo trip"
 category:          Features
 author:            JB
 tags:              features

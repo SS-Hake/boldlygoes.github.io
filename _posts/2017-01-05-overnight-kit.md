@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "My Overnight Kit "
-menutitle:         "Overnight Kit"
+title:             "James' Overnight Kit "
+menutitle:         "James' Overnight Kit"
 category:          Features
 author:            JB
 tags:              gear microadventures 

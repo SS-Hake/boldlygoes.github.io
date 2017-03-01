@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "In pictures: Cycling from Edinburgh to Stornorway"
-menutitle:         "Cycling Scotland"
+title:             "Photo Story: Edinburgh to Stornorway"
+menutitle:         "Photo Story: Edinburgh to Stornorway"
 category:          Features
 author:            JB
 tags:              cycling adventure photostories 

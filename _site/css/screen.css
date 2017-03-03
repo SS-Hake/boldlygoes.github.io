@@ -67,7 +67,6 @@
   .body-lockup a, .body-lockup a:hover, .body-lockup a:visited, .body-lockup a:link, .body-lockup a:active {
     text-decoration: none;
     font-size: 24px;
-    color: white;
     font-style: bold;
     margin-left: auto; }
     .body-lockup a span, .body-lockup a:hover span, .body-lockup a:visited span, .body-lockup a:link span, .body-lockup a:active span {
@@ -88,6 +87,8 @@
       letter-spacing: 4px;
       font-size: 20;
       font-style: bold; }
+      .body-lockup .first-line .top-left .overlay a {
+        color: white; }
   .body-lockup .first-line .top-left:hover > .overlay {
     width: 40%;
     height: 600px;
@@ -114,6 +115,8 @@
       letter-spacing: 4px;
       font-size: 20;
       font-style: bold; }
+      .body-lockup .first-line .top-right .overlay a {
+        color: white; }
   .body-lockup .first-line .top-right:hover > .overlay {
     width: 60%;
     height: 600px;
@@ -141,6 +144,8 @@
       letter-spacing: 4px;
       font-size: 20;
       font-style: bold; }
+      .body-lockup .second-line .bot-left .overlay a {
+        color: white; }
   .body-lockup .second-line .bot-left:hover > .overlay {
     width: 60%;
     height: 600px;
@@ -168,6 +173,8 @@
       letter-spacing: 4px;
       font-size: 20;
       font-style: bold; }
+      .body-lockup .second-line .bot-right .overlay a {
+        color: white; }
   .body-lockup .second-line .bot-right:hover > .overlay {
     width: 40%;
     height: 600px;
@@ -184,71 +191,79 @@
   margin: auto;
   max-width: 800px; }
 
+/*
 .tile-wrap {
-  overflow: hidden;
-  margin: 10px;
-  @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300");
-  font-family: 'Open Sans Condensed', sans-serif; }
-
+    overflow: hidden;
+    margin: 10px;
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+	font-family: 'Open Sans Condensed', sans-serif;
+}
 .tile {
-  float: left;
-  position: relative;
-  width: 20%;
-  padding-bottom: 20%; }
-
+   float: left;
+   position: relative;
+   width: 20%;
+   padding-bottom: 20%;
+}
 .boxInner {
-  position: absolute;
-  left: 10px;
-  right: 10px;
-  top: 10px;
-  bottom: 10px;
-  overflow: hidden; }
-
+   position: absolute;
+   left: 10px;
+   right: 10px;
+   top: 10px;
+   bottom: 10px;
+   overflow: hidden;
+}
 .boxInner img {
-  width: 100%;
-  height: 100%;
-  max-height: 100%;
-  max-width: 100%; }
-
+   width: 100%;
+   height: 100%;
+   max-height: 100%;
+   max-width: 100%;
+}
 .boxInner .titleBox {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin-bottom: 100%;
-  background: #000;
-  background: rgba(0, 0, 0, 0.5);
-  color: #FFF;
-  padding: 10px;
-  text-align: center;
-  -webkit-transition: all 0.3s ease-out;
-  -moz-transition: all 0.3s ease-out;
-  -o-transition: all 0.3s ease-out;
-  transition: all 0.3s ease-out; }
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   margin-bottom: 100%;
+   background: #000;
+   background: rgba(0, 0, 0, 0.5);
+   color: #FFF;
+   padding: 10px;
+   text-align: center;
+   -webkit-transition: all 0.3s ease-out;
+   -moz-transition: all 0.3s ease-out;
+   -o-transition: all 0.3s ease-out;
+   transition: all 0.3s ease-out;
+}
 
 .tile-wrap.no-touch .boxInner:hover .titleBox, .tile-wrap.touch .boxInner.touchFocus .titleBox {
-  margin-bottom: 0; }
+   margin-bottom: 0;
+}
+@media only screen and (max-width : 480px) {
+   .tile {
+      width: 100%;
+      padding-bottom: 100%;
+   }
+}
+@media only screen and (max-width : 650px) and (min-width : 481px) {
+   .tile {
+      width: 50%;
+      padding-bottom: 50%;
+   }
+}
+@media only screen and (max-width : 1050px) and (min-width : 651px) {
+   .tile {
+      width: 33.3%;
+      padding-bottom: 33.3%;
+   }
+}
+@media only screen and (max-width : 1290px) and (min-width : 1051px) {
+   .tile {
+      width: 25%;
+      padding-bottom: 25%;
+   }
+}
 
-@media only screen and (max-width: 480px) {
-  /* Smartphone view: 1 tile */
-  .tile {
-    width: 100%;
-    padding-bottom: 100%; } }
-@media only screen and (max-width: 650px) and (min-width: 481px) {
-  /* Tablet view: 2 tiles */
-  .tile {
-    width: 50%;
-    padding-bottom: 50%; } }
-@media only screen and (max-width: 1050px) and (min-width: 651px) {
-  /* Small desktop / ipad view: 3 tiles */
-  .tile {
-    width: 33.3%;
-    padding-bottom: 33.3%; } }
-@media only screen and (max-width: 1290px) and (min-width: 1051px) {
-  /* Medium desktop: 4 tiles */
-  .tile {
-    width: 25%;
-    padding-bottom: 25%; } }
+*/
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;

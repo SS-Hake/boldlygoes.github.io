@@ -41,7 +41,6 @@
 	a, a:hover, a:visited, a:link, a:active {
     text-decoration: none;
     font-size: 24px;
-    color: white;
     font-style: bold;
     margin-left: auto;
 
@@ -69,6 +68,10 @@
 				letter-spacing: 4px;
 				font-size: 20;
 				font-style: bold;
+
+				a {
+					color: white;
+				}
 			}
 		}
 
@@ -100,6 +103,9 @@
 				letter-spacing: 4px;
 				font-size: 20;
 				font-style: bold;
+				a {
+					color: white;
+				}
 			}
 		}
 
@@ -136,6 +142,9 @@
 				letter-spacing: 4px;
 				font-size: 20;
 				font-style: bold;
+				a {
+					color: white;
+				}
 			}
 		}
 
@@ -169,6 +178,9 @@
 				letter-spacing: 4px;
 				font-size: 20;
 				font-style: bold;
+				a {
+					color: white;
+				}
 			}
 		}
 
@@ -220,7 +232,7 @@
 	margin: auto;
 	max-width: 800px;
 }
-
+/*
 .tile-wrap {
     overflow: hidden;
     margin: 10px;
@@ -268,30 +280,28 @@
    margin-bottom: 0;
 }
 @media only screen and (max-width : 480px) {
-   /* Smartphone view: 1 tile */
    .tile {
       width: 100%;
       padding-bottom: 100%;
    }
 }
 @media only screen and (max-width : 650px) and (min-width : 481px) {
-   /* Tablet view: 2 tiles */
    .tile {
       width: 50%;
       padding-bottom: 50%;
    }
 }
 @media only screen and (max-width : 1050px) and (min-width : 651px) {
-   /* Small desktop / ipad view: 3 tiles */
    .tile {
       width: 33.3%;
       padding-bottom: 33.3%;
    }
 }
 @media only screen and (max-width : 1290px) and (min-width : 1051px) {
-   /* Medium desktop: 4 tiles */
    .tile {
       width: 25%;
       padding-bottom: 25%;
    }
 }
+
+*/

@@ -39,15 +39,17 @@
 	color: #3A4145;
 
 	a, a:hover, a:visited, a:link, a:active {
-    text-decoration: none;
-    font-size: 24px;
-    font-style: bold;
-    margin-left: auto;
+	    text-decoration: none;
+	    font-size: 24px;
+	    font-style: bold;
+	    margin-left: auto;
 
     	 span {
     	 	font-size: 16px;
     	 }
 	}
+
+	
 
 	.first-line {
 
@@ -70,6 +72,7 @@
 				font-style: bold;
 
 				a {
+
 					color: white;
 				}
 			}
@@ -232,7 +235,7 @@
 	margin: auto;
 	max-width: 800px;
 }
-/*
+
 .tile-wrap {
     overflow: hidden;
     margin: 10px;
@@ -276,6 +279,15 @@
    transition: all 0.3s ease-out;
 }
 
+.boxInner .titleBox a, 
+.boxInner .titleBox a:hover,
+.boxInner .titleBox a:visited, 
+.boxInner .titleBox a:link, 
+.boxInner .titleBox a:active  {
+	color: white;
+	text-decoration: none;
+}
+
 .tile-wrap.no-touch .boxInner:hover .titleBox, .tile-wrap.touch .boxInner.touchFocus .titleBox {
    margin-bottom: 0;
 }
@@ -304,4 +316,3 @@
    }
 }
 
-*/

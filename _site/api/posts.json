@@ -2,6 +2,17 @@
 
   
     {
+        "title": "Beer, fire and power tools",
+        "category": "Features",
+        "url": "/features/beer-fire-and-power-tools",
+        "tags": ["features"],
+        "date": "2017-03-09 00:00:00 +0000",
+        "language": "en"
+    },
+  
+
+  
+    {
         "title": "Soloventuring: Taking on your first solo trip",
         "category": "Features",
         "url": "/features/soloventures",

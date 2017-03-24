@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "How to Camp Out by <br> John Mead Gould"
-menutitle:         "Outdoor Book of the Month"
+menutitle:         "How to Camp Out by John M Gould"
 category:          Features
 author:            SSH
 tags:              features  

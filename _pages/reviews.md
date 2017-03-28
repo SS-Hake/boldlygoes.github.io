@@ -13,11 +13,18 @@ excerpt:   Reviews of outdoor gear and techniques.
 <div class="tile-wrap no-touch">
     <div class="tile">
       <div class="boxInner">
+        <a href="{{ site.github.url }}/reviews/sunix-review"><img src="{{ site.github.url }}/media/img/tiles/tile-sunix.jpg" /></a>
+        <div class="titleBox"><a href="{{ site.github.url }}/reviews/sunix-review">SUNIX 120 HEADTORCH REVIEW</a></div>
+      </div>
+    </div>
+    <div class="tile">
+      <div class="boxInner">
         <a href="{{ site.github.url }}/reviews/gossamer-review"><img src="{{ site.github.url }}/media/img/tiles/tile-gossamer.jpg" /></a>
         <div class="titleBox"><a href="{{ site.github.url }}/reviews/gossamer-review">GOSSAMER 1 REVIEW</a></div>
       </div>
     </div>
 </div>
+
 
 <div>
 {% assign sorted_cats = site.categories | sort %}

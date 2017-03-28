@@ -2,10 +2,21 @@
 
   
     {
+        "title": "Sunix 120 Headtorch Review",
+        "category": "Reviews",
+        "url": "/reviews/sunnix-review",
+        "tags": ["reviews","headtorches"],
+        "date": "2017-03-28 00:00:00 +0100",
+        "language": "en"
+    },
+  
+
+  
+    {
         "title": "How to Camp Out by <br> John Mead Gould",
-        "category": "Article",
-        "url": "/article/how-to-camp-out",
-        "tags": ["article"],
+        "category": "Features",
+        "url": "/features/how-to-camp-out",
+        "tags": ["features"],
         "date": "2017-03-24 00:00:00 +0000",
         "language": "en"
     },

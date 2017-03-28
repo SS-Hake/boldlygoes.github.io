@@ -4,7 +4,7 @@ title:             "Sunix 120 Headtorch Review"
 menutitle:         "Sunix Headtorch Review"
 category:          Reviews
 author:            SSH
-tags:              reviews headtorches 
+tags:              reviews
 comments:          true
 ---
 

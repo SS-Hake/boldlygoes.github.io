@@ -25,7 +25,7 @@ I bought this Sunix headtorch from Amazon.co.uk in the summer of 2015 for roughl
 
 <figure>
 <img src="{{ site.github.url }}/media/img/sunnix/head.jpg" />
-<figcaption>Modes for all occasions, outstanding battery life and incredible pricepoint make up for the flimsy feel appearance and feel.</figcaption>
+<figcaption>Modes for all occasions, outstanding battery life and an incredibly reasonable pricepoint make up for the flimsy feel appearance and feel.</figcaption>
 </figure>
 
 ## Build Quality

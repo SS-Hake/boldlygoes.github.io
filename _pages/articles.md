@@ -12,6 +12,12 @@ excerpt:   A list of all of our articles.
 
 <div class="tile-wrap no-touch">
   <div class="tile">
+      <div class="boxInner">
+        <a href="{{ site.github.url }}/features/how-to-camp-out"><img src="{{ site.github.url }}/media/img/tiles/tile-march2017.jpg" /></a>
+        <div class="titleBox"><a href="{{ site.github.url }}/features/how-to-camp-out">HOW TO CAMP OUT BY JOHN M GOULD</a></div>
+      </div>
+    </div>
+  <div class="tile">
     <div class="boxInner">
       <a href="{{ site.github.url }}/features/hot-tenting"><img src="{{ site.github.url }}/media/img/tiles/tile-hot.jpg" /></a>
       <div class="titleBox"><a href="{{ site.github.url }}/features/hot-tenting">HOT TENT CAMPING ON A SHOESTRING</a></div>

@@ -29,7 +29,7 @@ I bought this Sunix headtorch from Amazon.co.uk in the summer of 2015 for roughl
 </figure>
 
 ## Build Quality
-The standard of the materials used in the construction point to an origin somewhere in China, that is to say they aren’t the highest quality; the strap feels like very cheap plastic, as does the headtorch itself.  After some Googling I found that “Sunix” doesn’t appear to have a website, and the same model can be seen branded as a “Shuofang Spower” elsewhere.  This probably means that you shouldn’t expect much to come from the “lifetime warranty” guaranteed on the Amazon page, but the good news is that it seems to function well enough that you shouldn’t need to find out!
+The standard of the materials used in the construction point to an origin somewhere in China, that is to say they aren’t the highest quality; the strap feels like very cheap plastic, as does the headtorch itself.  After some Googling I found that “Sunix” doesn’t appear to have a website, and the same model can be seen branded as a “Shuofang Spower” elsewhere.  This probably means that you shouldn’t expect much to come from the lifetime warranty guaranteed on the Amazon page, but the good news is that it seems to function well enough that you shouldn’t need to find out!
 
 The LEDs, buttons, water-resistant seals, charging port and peripheral bag and charging cable are all of acceptable, if somewhat lacking quality, but nothing has broken in two years of near constant use.  I have exposed the IPX 6 sealing of the unit to many a rain, sleet and snow shower while jogging and hiking, but nothing seems to have penetrated, and the LEDs are still working.
 

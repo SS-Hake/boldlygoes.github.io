@@ -60,7 +60,7 @@ The torch, strap and charging cable all pack down to a handy pocket sized lump i
 ## Alternatives
 Alternatives to the Sunix 120 within the same price range seem to be either unbranded cheap tat, require normal AAA batteries, require you to buy separate rechargeable batteries or weigh a lot more.   
 
-Petzl are generally regarded as the top dog in the world of headtorches but that comes with a bump in price, the Petzl Tikka matches the functionality of the Sunix, but you’ll have to drop a further £20 on top of the ~£20 unit cost if you want a rechargeable battery pack.  
+Petzl are generally regarded as the top dog in the world of headtorches but that comes with a bump in price, the Petzl Tikka matches the functionality of the Sunix but you’ll have to drop a further £20 on top of the ~£20 unit cost if you want a rechargeable battery pack.  
 
 ## Final Thoughts
 The Sunix, although a bit tacky on first impressions, is astonishingly good value for what is a very handy and feature-laden item.  It’s served me well over nearly two years of jogging in all weather as well as being handy to read by in a tent.  I don’t think you can find a better headtorch for less than £25, let alone £16, it’s the outdoor gear holy grail; light, compact, cheap, reliable, convenient.  I have since bought a second one for my father to use in the garage/under cars, he is sold on it too.

@@ -44,7 +44,7 @@ When I repacked the first time, I picked up only the things which are directly l
 <figcaption>My essential gear.</figcaption>
 </figure>
 
-Here is what my pack contains post repack:
+Here is how my gear looks post repack:
 
 #### Water
 - Karrimor aluminium bottle 1.5L - 143g

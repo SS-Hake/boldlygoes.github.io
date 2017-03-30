@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "How to Camp Out by <br> John Mead Gould"
+title:             "How to Camp Out by John Mead Gould"
 menutitle:         "How to Camp Out by John M Gould"
 category:          Features
 author:            SSH
@@ -31,6 +31,6 @@ In the final two chapters of the book, Gould has included extracts in full from 
 <p style="font-style: italic; font-weight: 800; font-size: 18px;"> "Be independent, but not impudent. See all you can, and make the most of your time; "time is money;" and, when you grow older, you may find it even more difficult to command time than money." <br><span style="font-style: italic; font-weight: 400; font-size: 14px;"> - John M. Gould</span>
 </p> 
 
-How to Camp Out is 70 pages of distilled knowledge written in an accessible way by a man whos clear love for the outdoors and passion for teaching others shines throughout the book, making it a pleasure to read.  It’s a lovely little piece of nourishing history which I’d definitely recommend to keen outdoorsmen who are beginners or seasoned experts.  Both will come away from the book having learned different things: the newer, perhaps some new techniques and tips; the more experienced, some perspective on their outdoor skills and gear, and how little the basics have changed in 140 years. 
+How to Camp Out is 70 pages of distilled knowledge written in an accessible way by a man whose clear love for the outdoors and passion for teaching others shines throughout the book, making it a pleasure to read.  It’s a lovely little piece of nourishing history which I’d definitely recommend to keen outdoorsmen who are beginners or seasoned experts.  Both will come away from the book having learned different things: the newer, perhaps some new techniques and tips; the more experienced, some perspective on their outdoor skills and gear, and how little the basics have changed in 140 years. 
 
 How to Camp Out is available for free as an ebook or PDF via the [Gutenberg project](http://archive.org/stream/howtocampout17575gut/17575.txt) or [archive.org](http://www.gutenberg.org/files/17575/17575-h/17575-h.htm).

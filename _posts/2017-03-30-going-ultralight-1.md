@@ -23,7 +23,7 @@ Until now, the majority of my camping has involved setting up a base camp somewh
 <figcaption>The bits and bobs I've aquired over the years always seem handy at the time but the weight adds up fast.</figcaption>
 </figure>
 
-Recently, however, I have planned a few more adventurous trips which will involve hiking and camping with everything on my back for two weeks or more, this is when lighter gear starts to seem very appealing.  Being outside is great fun; hiking, cycling, canoeing, camping, these have all been enjoyed as past times since the 1800s when camping and hiking were first popularised.  Things can be made much less fun, however, if you are forced to carry enormous weight while you partake in them, as was pointed out by <a href="{{ site.github.url }}/reviews/how-to-camp-out">one of my favourites</a>...  
+Recently, however, I have planned a few more adventurous trips which will involve hiking and camping with everything on my back for two weeks or more, this is when lighter gear starts to seem very appealing.  Being outside is great fun; hiking, cycling, canoeing, camping, these have all been enjoyed as past times since the 1800s when camping and hiking were first popularised.  Things can be made much less fun, however, if you are forced to carry enormous weight while you partake in them, as was pointed out in <a href="{{ site.github.url }}/reviews/how-to-camp-out">one of my favourites</a>...  
 
 <p style="font-style: italic; font-weight: 800; font-size: 18px;"> "Very few young men who read this book will find it possible to enjoy themselves, and carry more than twenty pounds a greater distance than ten miles a day, for a week." <br><span style="font-style: italic; font-weight: 400; font-size: 14px;"> - John M. Gould</span></p>
 
@@ -70,6 +70,6 @@ Regatta Survivor 65 pack - 1569g
 Total pack base weight - **4343g** - **9lb 9.19oz**!
 
 
-I've already hit a decent starting point, and it's only taken about 20 minutes.  Unless you’re cooking on a portable aga, at this point you should be pretty significantly below 15lbs right now too!  Here we have the essentials, as they were in my original pack, not particularly expensive or light but we're already hovering around our goal weight.  Obviously there's still a fair bit to add if I want to have a nice time while I hike, toiletries and perhaps some camp clothes, but we'll get to that later in the series. 
+I've already hit a decent starting point, and it's only taken about 20 minutes.  Unless you’re cooking on a portable aga, at this point you should be pretty significantly below 15lbs, if not more, like me.  Here we have the essentials, as they were in my original pack, not particularly expensive or light but we're already hovering around our goal weight.  Obviously there's still a fair bit to add if I want to have a nice time while I hike: toiletries and perhaps some camp clothes, but we'll get to that later in the series. 
 
 There's actually quite a lot we can do to reduce the weight even at this point, that's what I'll be doing in part two of this series: Refining the essential!

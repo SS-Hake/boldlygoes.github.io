@@ -9,7 +9,6 @@ weight:    90
 excerpt:   Reviews of outdoor gear and techniques.
 ---
 
-
 <div class="tile-wrap no-touch">
     <div class="tile">
       <div class="boxInner">
@@ -30,7 +29,6 @@ excerpt:   Reviews of outdoor gear and techniques.
       </div>
     </div>
 </div>
-
 
 <div>
 {% assign sorted_cats = site.categories | sort %}

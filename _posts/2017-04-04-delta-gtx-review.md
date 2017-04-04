@@ -30,7 +30,7 @@ I bought these Scarpas in early spring 2016, for around £180 from GoOutdoors (f
 
 The majority of the boot is covered in a 2.4-2.6mm leather, with a calf's leather upper and tongue joint.  Although a little stiff to begin with (as leather always is) creases wore in straight away at the ankle bend, providing that tailored fit that I have only ever experienced with leather boots.  They have picked up a few cosmetic bramble scratches over the last year, while these haven’t even come close to affecting the boots performance, they have left me a little self conscious about further damage in a way I probably wouldn’t feel wearing boots with a synthetic construction.  
 
-The stitching, glue and general construction is all fantastic quality from what I have seen in the last 12 months, nothing has budged even a little bit.  The sole has hardly aged at all, it’s deep tread still as effective as day one, and even the inner sole is in good condition; still springy albeit missing some surface colour from wear.  The comfort level has only increased as I have worn them in, there have been no weak links when it comes to build and material quality.
+The stitching, glue and general construction is all fantastic quality from what I have seen in the last 12 months, nothing has budged even a little bit.  The sole has hardly aged at all, its deep tread still as effective as day one, and even the inner sole is in good condition; still springy albeit missing some surface colour from wear.  The comfort level has only increased as I have worn them in, there have been no weak links when it comes to build and material quality.
 
 <figure>
 <img src="{{ site.github.url }}/media/img/deltagtx/quality.jpg" />

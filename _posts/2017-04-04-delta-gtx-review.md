@@ -11,7 +11,7 @@ comments:          true
 
 Pros
 : Quality materials and assembly
-: Reduced or non-existant wearing in period
+: Reduced or non-existent wearing in period
 : Tough but responsive sole
 
 Cons

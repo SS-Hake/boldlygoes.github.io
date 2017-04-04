@@ -28,7 +28,7 @@ I bought these Scarpas in early spring 2016, for around £180 from GoOutdoors (f
 
 ## Quality
 
-The majority of the boot is covered in a 2.4-2.6mm leather, with a calf's leather upper and tongue joint.  Although a little stiff to begin with (as leather always is) creases wore in straight away at the ankle bend, providing that tailored fit that I have only ever experienced with leather boots.  They have picked up a few cosmetic bramble scratches over the last year, while these haven’t even come close to affecting the boots performance, they have left me a little self conscious about further damage in a way I probably wouldn’t feel wearing boots with a synthetic construction.  
+The majority of the boot is covered in a 2.4-2.6mm leather, with a calf leather upper and tongue joint.  Although a little stiff to begin with (as leather always is) creases wore in straight away at the ankle bend, providing that tailored fit that I have only ever experienced with leather boots.  They have picked up a few cosmetic bramble scratches over the last year, while these haven’t even come close to affecting the boots performance, they have left me a little self conscious about further damage in a way I probably wouldn’t feel wearing boots with a synthetic construction.  
 
 The stitching, glue and general construction is all fantastic quality from what I have seen in the last 12 months, nothing has budged even a little bit.  The sole has hardly aged at all, its deep tread still as effective as day one, and even the inner sole is in good condition; still springy albeit missing some surface colour from wear.  The comfort level has only increased as I have worn them in, there have been no weak links when it comes to build and material quality.
 
@@ -39,7 +39,7 @@ The stitching, glue and general construction is all fantastic quality from what 
 
 ## Design
 
-To compliment the great quality, Scarpa have realised a fantastic design to boot. They are a great mix of old and new boot style; comfortable, traditional calf and cow leather with hi-tech comfort inside and a Gore-tex waterproof lining, all topped off with a springy, bomb-proof, plastic sole. Having worn my pair in deep snow and at the height of summer without dampness creeping in and all sweat creeping out, I can say that the waterproofing and breathability of the Delta is fantastic.  The laces will stay put all day, even without a lace locking mechanism and although it’s quite tricky to get the tongue to stay in place to begin with, once you have worn them enough to mould the leather into place, lacing them up is a breeze. 
+To compliment the great quality, Scarpa have realised a fantastic design to boot. They are a great mix of old and new boot style; comfortable, traditional calf and cow leather with hi-tech comfort inside and a Gore-tex waterproof lining, all topped off with a springy, bomb-proof, plastic sole. Having worn my pair in deep snow and at the height of summer without dampness creeping in and all sweat creeping out, I can say that the waterproofing and breathability of the Delta is fantastic.  The laces will stay put all day even without a lace locking mechanism and although it’s quite tricky to get the tongue to stay in place to begin with, once you have worn them enough to mould the leather into place, lacing them up is a breeze. 
 
 The sole is springy and manages to feel surprisingly responsive for what is quite a large chunk of plastic, even with the very sturdy toe protector at the front. I’ve felt thoroughly connected to the earth in them almost all the time, these boots are definitely built to make you feel like Godzilla crashing down a hill, rather than a highly tuned and nimble hill walker.
 
@@ -63,4 +63,4 @@ The direct competitors in the 3 season leather boot range include the Mammut Bre
 With a regular oil and wax I can see these boots lasting me at least another 5 years,  if they remain this comfortable I’d be happy to wear them all that time too. Insulative, grippy, comfortable and visually pleasing; they tick all the right boxes and support you in all the right places.  I've recently seen them online as low as £160, so while not exactly a bargain, they are still very good value.
 
 ### Rating 3/4
-I'd definitely reccomend them and would buy another pair in a heartbeat.
+I'd definitely recommend them and would buy another pair in a heartbeat.

@@ -63,4 +63,4 @@ The direct competitors in the 3 season leather boot range include the Mammut Bre
 With a regular oil and wax I can see these boots lasting me at least another 5 years,  if they remain this comfortable I’d be happy to wear them all that time too. Insulative, grippy, comfortable and visually pleasing; these boots tick all the right boxes and support you in all the right places.  I've recently seen them online as low as £160, so while not exactly a bargain, they are still very good value.
 
 ### Rating 3/4
-I'd definitely reccomend them, and buy another pair in a heartbeat.
+I'd definitely reccomend them and would buy another pair in a heartbeat.

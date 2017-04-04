@@ -19,7 +19,7 @@ Cons
 
 
 
-I bought these boots in early spring 2016, for around £180 from GoOutdoors (from a physical shop for once!) and as far as I can see, they are the tough boots from the idiom. So far I’ve covered around 500 miles in them; wading through streams, walking over hills, climbing up mountains, stomping through snow, slogging through mud, and they have yet to let so much as a drop of water in. All the while they’ve provided a high level of comfort which I didn’t have to earn with a prolonged wearing in period, they fit comfortably right out of the shop.
+I bought these Scarpas in early spring 2016, for around £180 from GoOutdoors (from a physical shop for once!) and as far as I can see, they are the tough boots from the idiom. So far I’ve covered around 500 miles in them; wading through streams, walking over hills, climbing up mountains, stomping through snow, slogging through mud, and they have yet to let so much as a drop of water in. All the while they’ve provided a high level of comfort which I didn’t have to earn with a prolonged wearing in period, they fit comfortably right out of the shop.
 
 <figure>
 <img src="{{ site.github.url }}/media/img/deltagtx/first.jpg" />
@@ -30,7 +30,7 @@ I bought these boots in early spring 2016, for around £180 from GoOutdoors (fro
 
 The majority of the boot is covered in a 2.4-2.6mm leather, with a calf's leather upper and tongue joint.  Although a little stiff to begin with (as leather always is) creases wore in straight away at the ankle bend, providing that tailored fit that I have only ever experienced with leather boots.  They have picked up a few cosmetic bramble scratches over the last year, while these haven’t even come close to affecting the boots performance, they have left me a little self conscious about further damage in a way I probably wouldn’t feel wearing boots with a synthetic construction.  
 
-The stitching, glue and general construction is all fantastic quality from what I have seen in the last 12 months, nothing has budged even a little bit.  The sole has hardly aged at all, it’s deep tread still as effective as day one, and even the inner sole is in good condition; still springy albeit missing some surface colour from wear.  The comfort level has only increased as I have worn these boots in, there have been no weak links when it comes to build and material quality.
+The stitching, glue and general construction is all fantastic quality from what I have seen in the last 12 months, nothing has budged even a little bit.  The sole has hardly aged at all, it’s deep tread still as effective as day one, and even the inner sole is in good condition; still springy albeit missing some surface colour from wear.  The comfort level has only increased as I have worn them in, there have been no weak links when it comes to build and material quality.
 
 <figure>
 <img src="{{ site.github.url }}/media/img/deltagtx/quality.jpg" />
@@ -52,7 +52,7 @@ The boots have what Scarpa calls “ActivFit”, which means Scarpa made the boo
 
 ## Alternatives
 
-The direct competitors in the 3 season leather boot range include the Mammut Brecon II, which costs ~£170 and the heavier Meindl Bhutan MFS, which costs ~£180.  Reading reviews of these boots, I am not instilled with confidence the way I was approaching Scarpa; build quality issues aren’t what you want to hear when investing in something you want to last up to 5 years.  There were actually several user reviews that included lines such as "<a href="{{ site.github.url }}/media/img/deltagtx/scarpa-review.jpg">never gonna last 10 years like my old Scarpas</a>", far reaching brand reputation for quality is always a good sign.  From what I have seen, the alternative with the most to offer comes from the British company Anatom, their Braeriach 3 season boot costs only £144 and has been reviewed positively so far. 
+The direct competitors in the 3 season leather boot range include the Mammut Brecon II, which costs ~£170 and the heavier Meindl Bhutan MFS, which costs ~£180.  Reading reviews of the competition, I am not instilled with confidence the way I was approaching Scarpa; build quality issues aren’t what you want to hear when investing in something you want to last up to 5 years.  There were actually several user reviews that included lines such as "<a href="{{ site.github.url }}/media/img/deltagtx/scarpa-review.jpg">never gonna last 10 years like my old Scarpas</a>", far reaching brand reputation for quality is always a good sign.  From what I have seen, the alternative with the most to offer comes from the British company Anatom, their Braeriach 3 season boot costs only £144 and has been reviewed positively so far. 
 
 <figure>
 <img src="{{ site.github.url }}/media/img/deltagtx/worn.jpg" />
@@ -60,7 +60,7 @@ The direct competitors in the 3 season leather boot range include the Mammut Bre
 
 ## Final thoughts
 
-With a regular oil and wax I can see these boots lasting me at least another 5 years,  if they remain this comfortable I’d be happy to wear them all that time too. Insulative, grippy, comfortable and visually pleasing; these boots tick all the right boxes and support you in all the right places.  I've recently seen them online as low as £160, so while not exactly a bargain, they are still very good value.
+With a regular oil and wax I can see these boots lasting me at least another 5 years,  if they remain this comfortable I’d be happy to wear them all that time too. Insulative, grippy, comfortable and visually pleasing; they tick all the right boxes and support you in all the right places.  I've recently seen them online as low as £160, so while not exactly a bargain, they are still very good value.
 
 ### Rating 3/4
 I'd definitely reccomend them and would buy another pair in a heartbeat.
